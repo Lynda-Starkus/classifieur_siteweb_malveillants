@@ -32,7 +32,7 @@ Ensuite, on peut répondre à la question clé de cette analyse :
 
 Une façon de répondre à celà consiste à calculer la matrice de corrélation.
 
-![Corrélation](cor_matix.png)
+![Corrélation](cor_matrix.png)
 
 > Constat : les colonnes URL_LENGTH, NUMBER_SPECIAL_CHARACTERS, DNS_QUERY_TIMES ont la plus grande corrélation avec la colonne TYPE.
 
